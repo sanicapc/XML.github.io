@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<note>
-  <to>ABC</to>
-  <from>XYZ</from>
-  <heading>Reminder</heading>
-  <body>Party this weekend!</body>
-</note>
 
 <table xmlns="https://www.w3schools.com/furniture">
   <name>African Coffee Table</name>
