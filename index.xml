@@ -6,17 +6,8 @@
   <body>Party this weekend!</body>
 </note>
 
-<bookstore>
-  <book category="children">
-    <title>Harry Potter</title>
-    <author>J K. Rowling</author>
-    <year>2005</year>
-    <price>29.99</price>
-  </book>
-  <book category="web">
-    <title>Learning XML</title>
-    <author>Erik T. Ray</author>
-    <year>2003</year>
-    <price>39.95</price>
-  </book>
-</bookstore>
+<table xmlns="https://www.w3schools.com/furniture">
+  <name>African Coffee Table</name>
+  <width>80</width>
+  <length>120</length>
+</table>
